@@ -12,7 +12,7 @@
 
 ## 启动
 
-从 GitHub 仓库的 Releases 下载 `MusicBridge-v0.1.12-Windows-x64.zip`，完整解压后双击 `MusicBridge.exe`。必须保留 EXE 同目录的 `_internal`、`bridge`、`runtime` 文件夹；打包版不需要另外安装 Python、Node.js，不依赖 Codex。
+从 GitHub 仓库的 Releases 下载 qqmusic-likes-to-netease-v0.1.12-Windows-x64.zip，解压后双击 MusicBridge-v0.1.12.exe。必须保留 EXE 同目录的 `_internal`、`bridge`、`runtime` 文件夹；打包版不需要另外安装 Python、Node.js，不依赖 Codex。
 
 从旧打包版升级时，先关闭两个版本，再把旧版 EXE 同级的 `data` 文件夹复制到新版 EXE 旁边。同一台电脑、同一个 Windows 用户可继续使用保存的授权、匹配和断点。请先保留旧目录作为备份。
 
